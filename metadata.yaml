@@ -1,0 +1,29 @@
+_repo: In-the-Track-of-the-Bookworm_36764
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Browne, Irving
+    birthdate: 1835
+    deathdate: 1899
+    gutenberg_agent_id: '38461'
+    url: http://www.gutenberg.org/2009/agents/38461
+description: ''
+gutenberg_issued: '2011-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36764'
+  lccn: 06044098
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Book collecting'
+- !lcsh 'Books'
+- !lcsh 'Bibliomania'
+title: In the Track of the Bookworm
+url: http://www.gutenberg.org/ebooks/36764
